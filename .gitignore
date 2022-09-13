@@ -1,0 +1,24 @@
+<<<<<<< HEAD
+NPYViewer
+__pycache__/
+test/modules/app/__pycache__/
+test/modules/appwithout/__pycache__/
+test/__pycache__/
+test/cProfileGeneratedData/**
+=======
+# Project
+.vscode/settings.json
+.DS_Store
+*.ipynb
+.ipynb_checkpoints
+secrets.json
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+
+# Distribution / packaging
+*.egg-info/
+>>>>>>> d6cb4d7994ac6652bb0612dcacb0544aa231fe19
